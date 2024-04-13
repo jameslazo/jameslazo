@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jameslazo
-- 👀 I’m interested in general coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in orchestration
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 You can reach me here or on Twitter @JamesLazo
+- 📫 Feel free to give me a holler!
 
 <!---
 jameslazo/jameslazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
