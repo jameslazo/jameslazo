@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jameslazo
 - 👀 I’m interested in cloud deployments
-- 🌱 I’m currently learning API development
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Feel free to give me a holler!
 
