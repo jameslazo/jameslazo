@@ -3,7 +3,7 @@ jameslazo/jameslazo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # James Lazo | AWS DevOps Engineer
----
+
 ## IaC, Containerization, Orchestration & CI/CD
 - 1000s of lines of HCL (Terraform) live resource provisioning
   - From VPC, networks & IAM permissions to serverless, managed and unmanaged resources
@@ -26,22 +26,24 @@ You can click the Preview link to take a look at your changes.
   - Semantic versioning
   - Matrices
   - Reporting
----
+
 ## Current Projects
 | Project | Status | Domains | Tools |
+| ------- | ------ | ------- | ----- |
 | Log Analytics | In Progress | Observability, Orchestration | K8s, Fluentd, Elasticsearch |
 | FluxCD/Helm for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneyes/) | In Progress | CI/CD, Orchestration | K8s, FluxCD, Helm |
 | PVC for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneyes/) | In Progress | Storage | K8s, Helm |
 | [GHA for Documentation](https://github.com/mischavandenburg/kubecraft/issues/35) | To Do | CI/CD | GitHub Actions |
----
+
 ## Completed Projects
 | Project | Status | Domains | Tools |
+| ------- | ------ | ------- | ----- |
 | [MotionEye K8s Deployment](https://github.com/jameslazo/k8s-motioneyes/) | Maintenance | Migration, Orchestration | K8s, Docker |
 | [DevOps All Stars Challenge](https://github.com/jameslazo/devopsallstars-tf/) | Done | IaC, CI/CD | AWS, Terraform, GHA |
 | Multi-AZ WordPress Container Deployment | Done | IaC, Migration | AWS, Terraform, Docker |
 | [Profile Landing Page](https://www.jameslazo.com/) | Maintenance | Serverless | AWS, Terraform, GHA | 
 | [Cloud Resume Challenge](https://resume.jameslazo.com/) | Maintenance | IaC, CI/CD, Serverless | AWS, Terraform, GHA |
----
+
 ## On Premises/Private Cloud
 - Bare-metal machines/appliances
   - [ ] Proxmox
@@ -53,7 +55,7 @@ You can click the Preview link to take a look at your changes.
   - [ ] GitHub Enterprise Server
   - [ ] Log server/analytics
   - [x] pfSense firewall
----
+
 ## Certifications
 - AWS
   - [ ] Certified Developer - Associate | Final prep
