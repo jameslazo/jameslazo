@@ -41,9 +41,9 @@ You can click the Preview link to take a look at your changes.
 | Project | Status | Domains | Tools |
 | ------- | ------ | ------- | ----- |
 | [ArgoCD Code Along](https://github.com/jameslazo/argocd-app-config/) | Done | GitOps, CI/CD, Orchestration | K8s, ArgoCD |
-| [RESTful API](https://github.com/jameslazo/Building-RESTful-APIs--Node.js-Express-MongoDB/) | Done | API, Fullstack Dev | Node.js, Express, MongoDB |
-| [HA WordPress Container Deployment](https://blog.jameslazo.com/) | Done | IaC, Migration | AWS, Terraform, Docker |
-| [Learning Node.js](https://github.com/jameslazo/LearningNode.js/) | Done | Fullstack Dev | Node.js |
+| [RESTful API](https://github.com/jameslazo/Building-RESTful-APIs--Node.js-Express-MongoDB/) | Done | API, Fullstack development | Node.js, Express, MongoDB |
+| [HA Containerized WordPress](https://blog.jameslazo.com/) | Done | IaC, Migration | AWS, Terraform, Docker |
+| [Learning Node.js](https://github.com/jameslazo/LearningNode.js/) | Done | Fullstack development | Node.js |
 | [Profile Landing Page](https://www.jameslazo.com/) | Maintenance | Serverless | AWS, Terraform, GHA | 
 | [Cloud Resume Challenge](https://resume.jameslazo.com/) | Maintenance | IaC, CI/CD, Serverless | AWS, Terraform, GHA |
 | [AWS API Unit/Mock Testing](https://github.com/jameslazo/aws-crud-api-lambda-dynamodb/) | Done | QA, Unit Testing, TDD, Serverless | AWS, Python | 
