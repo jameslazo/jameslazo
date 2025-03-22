@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 | ------- | ------ | ------- | ----- |
 | [ArgoCD Code Along](https://github.com/jameslazo/argocd-app-config/) | Done | GitOps, CI/CD, Orchestration | K8s, ArgoCD |
 | [RESTful API](https://github.com/jameslazo/Building-RESTful-APIs--Node.js-Express-MongoDB/) | Done | API, Fullstack Dev | Node.js, Express, MongoDB |
-| Multi-AZ WordPress Container Deployment | Done | IaC, Migration | AWS, Terraform, Docker |
+| [HA WordPress Container Deployment](https://blog.jameslazo.com/) | Done | IaC, Migration | AWS, Terraform, Docker |
 | [Learning Node.js](https://github.com/jameslazo/LearningNode.js/) | Done | Fullstack Dev | Node.js |
 | [Profile Landing Page](https://www.jameslazo.com/) | Maintenance | Serverless | AWS, Terraform, GHA | 
 | [Cloud Resume Challenge](https://resume.jameslazo.com/) | Maintenance | IaC, CI/CD, Serverless | AWS, Terraform, GHA |
