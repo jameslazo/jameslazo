@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 | ------- | ------ | ------- | ----- |
 | Log Analytics | In Progress | Observability, Orchestration | K8s, Fluentd, Elasticsearch |
 | FluxCD/Helm for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | In Progress | CI/CD, Orchestration | K8s, FluxCD, Helm |
-| PVC for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | In Progress | Storage | K8s, Helm |
+| PVC for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | In Progress | Data Plane | K8s, Helm |
 | [GHA for Documentation](https://github.com/mischavandenburg/kubecraft/issues/35) | To Do | CI/CD | GitHub Actions |
 | [MotionEye K8s Deployment](https://github.com/jameslazo/k8s-motioneye/) | Maintenance | Migration, Orchestration | K8s, Docker |
 | [DevOps All Stars Challenge](https://github.com/jameslazo/devopsallstars-tf/) | Done | IaC, CI/CD | AWS, Terraform, GHA |
