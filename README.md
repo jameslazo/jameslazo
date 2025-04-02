@@ -2,7 +2,8 @@
 jameslazo/jameslazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# James Lazo | AWS DevOps Engineer
+# James Lazo
+Hello there! I frequently develop in Python, but my passion is for AWS Infrastructure & DevSecOps engineering, with most of my coding in Terraform HCL, YAML and Bash. When I'm not working on a new project or GitHub Actions workflow, I'm usually optimizing or updating containers for development or Kubernetes deployment. 
 
 ## IaC, Containerization, Orchestration & CI/CD
 - 1000s of lines of HCL (Terraform) live resource provisioning
@@ -33,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 | Log Analytics | In Progress | Observability, Orchestration | K8s, Fluentd, Elasticsearch |
 | FluxCD/Helm for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | In Progress | CI/CD, Orchestration | K8s, FluxCD, Helm |
 | PVC for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | In Progress | Data Plane | K8s, Helm |
-| [GHA for Documentation](https://github.com/mischavandenburg/kubecraft/issues/35) | To Do | CI/CD | GitHub Actions |
+| [GHA for Documentation](https://github.com/mischavandenburg/kubecraft/issues/35) | [Done](https://github.com/mischavandenburg/kubecraft/pull/51) | CI/CD | GitHub Actions |
 | [MotionEye K8s Deployment](https://github.com/jameslazo/k8s-motioneye/) | Maintenance | Migration, Orchestration | K8s, Docker |
 | [DevOps All Stars Challenge](https://github.com/jameslazo/devopsallstars-tf/) | Done | IaC, CI/CD | AWS, Terraform, GHA |
 | [K8s Code Along](https://github.com/jameslazo/k8s-first-project/) | Done | Orchestration | K8s, Helm, Docker |
