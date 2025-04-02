@@ -2,8 +2,8 @@
 jameslazo/jameslazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# James Lazo
-Hello there! I frequently develop in Python, but my passion is for AWS Infrastructure & DevSecOps engineering, with most of my coding in Terraform HCL, YAML and Bash. When I'm not working on a new project or GitHub Actions workflow, I'm usually optimizing or updating containers for development or Kubernetes deployment. 
+# Hello there!
+My name is James, but I also go by my handle, jazo (jay-zo). I frequently develop in Python, but my passion is for AWS Infrastructure & DevSecOps engineering, with most of my coding in Terraform HCL, YAML and Bash. When I'm not working on a new project or GitHub Actions workflow, I'm usually optimizing or updating containers for development or Kubernetes deployment. 
 
 ## IaC, Containerization, Orchestration & CI/CD
 - 1000s of lines of HCL (Terraform) live resource provisioning
