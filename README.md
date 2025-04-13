@@ -33,7 +33,7 @@ My name is James, but I also go by my handle, jazo (jay-zo). I frequently develo
 | ------- | ------ | ------- | ----- |
 | Log Analytics | In Progress | Observability, Orchestration | K8s, Fluentd, Elasticsearch |
 | FluxCD/Helm for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | In Progress | CI/CD, Orchestration | K8s, FluxCD, Helm |
-| PVC for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | In Progress | Data Plane | K8s, Helm |
+| PVC for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | [Done](https://github.com/jameslazo/k8s-motioneye/pull/1) | Data Plane | K8s, Helm |
 | [GHA for Documentation](https://github.com/mischavandenburg/kubecraft/issues/35) | [Done](https://github.com/mischavandenburg/kubecraft/pull/51) | CI/CD | GitHub Actions |
 | [MotionEye K8s Deployment](https://github.com/jameslazo/k8s-motioneye/) | Maintenance | Migration, Orchestration | K8s, Docker |
 | [DevOps All Stars Challenge](https://github.com/jameslazo/devopsallstars-tf/) | Done | IaC, CI/CD | AWS, Terraform, GHA |
@@ -58,6 +58,7 @@ My name is James, but I also go by my handle, jazo (jay-zo). I frequently develo
   - [ ] Talos Linux clusters
   - [ ] GitHub Enterprise Server
   - [ ] Log server/analytics
+  - [x] K8s LLM deployment
   - [x] pfSense firewall
 
 ## Certifications
