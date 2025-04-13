@@ -32,8 +32,7 @@ My name is James, but I also go by my handle, jazo (jay-zo). I frequently develo
 | Project | Status | Domains | Tools |
 | ------- | ------ | ------- | ----- |
 | Log Analytics | In Progress | Observability, Orchestration | K8s, Fluentd, Elasticsearch |
-| Helm chart for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | [In Progress](https://github.com/jameslazo/k8s-motioneye/issues/2) | CI/CD, Orchestration | K8s,
-| Helm |
+| Helm chart for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | [In Progress](https://github.com/jameslazo/k8s-motioneye/issues/2) | CI/CD, Orchestration | K8s, Helm |
 | FluxCD GitOps for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | [In Progress](https://github.com/jameslazo/k8s-motioneye/issues/3) | CI/CD, Orchestration | K8s, FluxCD |
 | PVC for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | [Done](https://github.com/jameslazo/k8s-motioneye/pull/1) | Data Plane | K8s, Helm |
 | Local LLM Deployment | [Maintenance](https://github.com/jameslazo/k8s-llms-deepseekr1) | ML/AI | K8s, Ollama, MCP |
