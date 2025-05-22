@@ -31,6 +31,7 @@ My name is James, but I also go by my handle, jazo (jay-zo). I frequently develo
 ## 2025 Projects
 | Project | Status | Domains | Tools |
 | ------- | ------ | ------- | ----- |
+| Rancher Server (Azure) | In Progress | Orchestration, Cluster mgmt | Rancher, Terraform, Azure, ArgoCD |
 | Log Analytics | In Progress | Observability, Orchestration | K8s, Fluentd, Elasticsearch |
 | Helm chart for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | [In Progress](https://github.com/jameslazo/k8s-motioneye/issues/2) | CI/CD, Orchestration | K8s, Helm |
 | FluxCD GitOps for [k8s-motioneye](https://github.com/jameslazo/k8s-motioneye/) | [In Progress](https://github.com/jameslazo/k8s-motioneye/issues/3) | CI/CD, Orchestration | K8s, FluxCD |
@@ -41,6 +42,7 @@ My name is James, but I also go by my handle, jazo (jay-zo). I frequently develo
 | [MotionEye K8s Deployment](https://github.com/jameslazo/k8s-motioneye/) | Maintenance | Migration, Orchestration | K8s, Docker |
 | [DevOps All Stars Challenge](https://github.com/jameslazo/devopsallstars-tf/) | Done | IaC, CI/CD | AWS, Terraform, GHA |
 | [K8s Code Along](https://github.com/jameslazo/k8s-first-project/) | Done | Orchestration | K8s, Helm, Docker |
+
 ## 2024 Highlights
 | Project | Status | Domains | Tools |
 | ------- | ------ | ------- | ----- |
@@ -53,14 +55,13 @@ My name is James, but I also go by my handle, jazo (jay-zo). I frequently develo
 | [AWS API Unit/Mock Testing](https://github.com/jameslazo/aws-crud-api-lambda-dynamodb/) | Done | QA, Unit Testing, TDD, Serverless | AWS, Python | 
 ## On Premises/Private Cloud
 - Bare-metal machines/appliances
-  - [ ] Proxmox
-  - [ ] NAS
   - [ ] ML/AI rig
-  - [x] Multi-ISP failover
-- Virtual
-  - [ ] Talos Linux clusters
   - [ ] GitHub Enterprise Server
   - [ ] Log server/analytics
+  - [x] Network storage
+  - [x] Proxmox (4 nodes)
+  - [x] Multi-ISP failover
+  - [x] Talos Linux clusters (8 nodes)
   - [x] K8s LLM deployment
   - [x] pfSense firewall
 
