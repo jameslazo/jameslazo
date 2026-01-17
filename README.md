@@ -68,7 +68,7 @@ My name is James, but I also go by my handle, jazo (jay-zo). I frequently develo
 ## Certifications
 - AWS
   - [ ] Certified Developer - Associate | Final prep
-  - [ ] Certified SysOps Administrator - Associate | Final prep
+  - [ ] Certified Cloud Operations - Associate | Final prep
   - [x] Certified Solutions Architect - Associate
   - [x] Certified Cloud Practitioner
 - K8s
